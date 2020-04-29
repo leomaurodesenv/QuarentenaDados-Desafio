@@ -1,0 +1,7 @@
+python bash_code.py
+<class 'sklearn.ensemble.forest.RandomForestRegressor'> 2368.6870058000004
+<class 'sklearn.ensemble.forest.ExtraTreesRegressor'> 2487.95318268
+<class 'sklearn.ensemble.bagging.BaggingRegressor'> 2404.8231502350004
+<class 'sklearn.ensemble.gradient_boosting.GradientBoostingRegressor'> 2046.39364252094
+<class 'sklearn.ensemble.weight_boosting.AdaBoostRegressor'> 2583.007481656197
+<class 'sklearn.linear_model.huber.HuberRegressor'> 2188.1714318197633

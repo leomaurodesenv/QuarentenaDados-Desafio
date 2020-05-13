@@ -9,14 +9,15 @@ Minha solução foi baseada em encontrar um Regressor e otimizar a busca de par�
 Nota-se que, observando os dados, não há ausência de valores e sua distribuição é massiva em torno da nota mediana.   
 
 **Procedimentos**
-- [00](dataset.py): Conjunto de dados.
-- [01](01_exploring_regressors.py): Testar um conjunto de Regressores.
-- [02](02_parameter_tuning.py): Realizar uma tuning de parâmetros na melhor solução.
-- [03](03_refinement_test.py): Refinamento do modelo.
-- [04](04_export_result.py): Exportando o resultado.
+-   [00](dataset.py): Conjunto de dados.
+-   [01](01_exploring_regressors.py): Testar um conjunto de Regressores.
+-   [02](02_parameter_tuning.py): Realizar uma tuning de parâmetros na melhor solução.
+-   [03](03_refinement_test.py): Refinamento do modelo.
+-   [04](04_export_result.py): Exportando o resultado.
 
 ---
 ## Also look ~
 
 -   [License MIT](LICENSE)
+-   [QuarentenaDados](https://github.com/tgcsantos/Quarentena_dados)
 -   Create by Leonardo Mauro ~ [leomaurodesenv](https://github.com/leomaurodesenv/)
